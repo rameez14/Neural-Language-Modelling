@@ -1,3 +1,3 @@
-## Natural Language Processing
+## Neural Language Modelling
 Implementation of Neural Language Modelling
  
